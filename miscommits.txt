@@ -1,0 +1,12 @@
+commit c50ecd832ac43c5c433aaa969ce907d59e381e57
+Author: mariairma <ccdm13@iMac-de-CCDM13.local>
+Date:   Fri Sep 2 11:33:16 2016 -0600
+
+    cambio en mi readme.txt
+
+commit 46621b3f16b162c9a33f5c6b2b7cad4d03f8f5ce
+Author: mariairma <ccdm13@iMac-de-CCDM13.local>
+Date:   Tue Aug 30 11:55:39 2016 -0600
+
+    Commit inicial con readme.txt
+commit 46621b3f16b162c9a33f5c6b2b7cad4d03f8f5ce
