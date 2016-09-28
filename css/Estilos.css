@@ -1,0 +1,56 @@
+/*selectores*/
+/*etiquetas*/
+/*identificadores*/
+/*clases*/
+body /*selector -etiquetas*/
+{
+
+/*atributo:valor */
+border: 1px solid blue;
+border-radius:  5px;
+max-width: 1024px;
+margin: auto;
+
+}
+header{
+	background: blue;/*Fondo*/
+   border: 1px solid red;
+color: white;/*color letra*/
+text-align: center;/*Alineacion*/
+padding: 0px 0px 10px 0px;
+}
+
+header img{
+	width: 100px;/*Ancho de la imagen*/
+	float: right;/*Rompe el modelo de cajas y quedo a la deriva,forna absoluta*/
+	margin: -50px 20px 0px 50px;
+}
+
+header nav ul li{
+
+/*border: 1px solid yellow;*/
+border-radius: 5px;
+box-shadow: 5px 5px;
+/*box-shadow: -5px -5px;*/
+display: inline-block;/*rompe el modelo de caja*/
+background-color: orange;/*Color del fondo*/
+padding: 0px 10px;/*separo las cajas*/
+margin: 0px 10px 50px 10px;/*agrando los botones(interno)*/
+width:  80px;/*ancho del boton*/
+
+
+
+}
+
+
+header nav ul li:hover /*mouse por encima*/
+{
+	background: purple;/*color de fondo*/
+	color:orange;/*color de letra*/
+
+
+
+}
+
+
+
