@@ -10,7 +10,16 @@ border: 1px solid blue;
 border-radius:  5px;
 max-width: 1024px;
 margin: auto;
+font-size:16px;/*tamaño de fuente*/ 
 
+
+}
+
+footer {
+
+	border: 1px solid blue;
+	text-align: center; /*alineamos todo el texto*/ 
+	font-size:1.5em;/*tamaño de fuente*/ 
 }
 header{
 	background: blue;/*Fondo*/
@@ -51,6 +60,18 @@ header nav ul li:hover /*mouse por encima*/
 
 
 }
+ main section article {
+ 	border: 2px solid red;
+	display: inline-block;
+	vertical-align: top;
+	width:18%;
+
+ }
+
+
+
+
+
 
 
 
