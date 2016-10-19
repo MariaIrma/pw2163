@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta chatset="UTF-8">
+
+	<title>Practica 01 css3</title>
+</head>
+<body>
+<header>
+	<img src="img/resplandor.png" alt="">
+	<img src="img/logo.png" alt="">
+	<nav>
+			<ul>
+				<li>Inicio</li>
+				<li>-seccion</li>
+				<li>Seccion</li>
+				<li>Seccion</li>
+				<li>Seccion</li>
+			</ul>
+	</nav>
+
+	<form action=""></form>
+	<input TYPE="SEARCH" PLACEHOLDER="Buscar aqui...">
+	<input type="button" value="Buscar">
+</header>
+</body>
+</html>
