@@ -1,4 +1,4 @@
-bordy{
+body{
 font-size: 16px;/*1em*/
 margin: 0 auto;
 max-width: 1078px;/*decision de la empresa*/
@@ -15,6 +15,10 @@ header input{
 	position: relative;
 }
 
+header nav{
+margin-left: 220px;
+}
+
 header nav ul li{
 	border-bottom: 1px solid gray;
 color:gray;
@@ -25,8 +29,16 @@ margin-right: 15px
 
 
 
-
 }
+
+#bgoffer{
+	left: -35px;
+	position: relative;
+	/*podemos usar los atributos left ,right,top*/
+top: -410px;
+}
+
+
 #granthams {/*logo de la empresa*/
 	margin-top: 20px;
 	margin-left: 25px;
@@ -36,4 +48,25 @@ margin-right: 15px
 
 	float: right;
 	margin-top: 20px;
+}
+#primerseccion{
+	margin-top: 70px;
+}
+#primerseccion article{
+
+	display: inline-block;
+	margin-left: 25px;
+	vertical-align: top;
+}
+#secc01art01{
+	width: 60%;
+}
+#secc02art02{
+width: 30%;
+}
+
+.Wecanoffer {
+	color: #ff0099;
+	font-size: 3.5em;
+	font-weight: bold;
 }
