@@ -49,23 +49,43 @@ top: -410px;
 	float: right;
 	margin-top: 20px;
 }
-#primerseccion{
-	margin-top: 70px;
+#primerseccion article{
+	margin-top: 170px;
 }
 #primerseccion article{
+	height: 317.99px;
 
 	display: inline-block;
 	margin-left: 25px;
 	vertical-align: top;
+	
 }
 #secc01art01{
 	width: 60%;
 }
 #secc02art02{
-width: 30%;
+width: 25%;
 }
+#segundaseccion {
+	text-align: right;
+	padding-right: 130px;
 
+}
+#terceraseccion article{
+
+	display: inline-block;
+	width: 22%;
+	vertical-align: top;
+}
+.numerodetelefono{
+color:#ff0099;
+font-size: 2em;
+font-weight: bold;
+
+
+}
 .Wecanoffer {
+
 	color: #ff0099;
 	font-size: 3.5em;
 	font-weight: bold;
